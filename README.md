@@ -1,3 +1,4 @@
-![Screenshot from 2023-01-27 21-20-32](https://user-images.githubusercontent.com/92![Screenshot from 2023-01-27 19-51-04](https://user-images.githubusercontent.com/92034020/215129535-908ce783-f045-4e74-9e9b-e38c65f749d7.png)
-034020/215129364-f3e07483-5a92-4ceb-9867-b66676260408.png)
+![Screenshot from 2023-01-27 19-51-04](https://user-images.githubusercontent.com/92034020/215130461-0ca35277-84ac-46ac-8249-363fda78b0e1.png)
+![Screenshot from 2023-01-27 21-20-32](https://user-images.githubusercontent.com/92034020/215130482-f703f73f-e98f-413f-9cc4-b572e39a0cb6.png)
+
 # Django-Webapp
